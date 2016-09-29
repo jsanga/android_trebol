@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">trebol_app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">332346710436794</string>
+</resources>
